@@ -1,0 +1,19 @@
+﻿  main (5).cpp
+C:\Users\Tomasz\Downloads\main (5).cpp(41,16): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Tomasz\Downloads\main (5).cpp(45,40): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Tomasz\Downloads\main (5).cpp(61,36): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Tomasz\Downloads\main (5).cpp(62,36): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Tomasz\Downloads\main (5).cpp(98,16): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  akwb4.vcxproj -> C:\Users\Tomasz\Desktop\studia\VS 2022\AKwB\zadanie 4 AKwB mapowanie enzymami restrykcyjnymi\akwb4\x64\Debug\akwb4.exe
